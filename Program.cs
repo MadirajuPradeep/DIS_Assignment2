@@ -11,7 +11,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ISM6225_Assignment_2_Spring_2022
+namespace ISM6225_Assignment_2_Spring_2022 
 {
     class Program
     {
